@@ -1,0 +1,1 @@
+roslaunch robotican_armadillo armadillo.launch hector_slam:=true move_base:=true lidar:=true world_name:="/users/studs/bsc/2016/sdanie/catkin_ws/src/robotican/robotican_common/worlds/building_with_elevator.world" gazebo:=true kinect2:=true x:=-9 y:=4.12
